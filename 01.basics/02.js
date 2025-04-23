@@ -8,4 +8,3 @@ let age = 18
 let isloggedin = false
 
 console.log(typeof null)
-
