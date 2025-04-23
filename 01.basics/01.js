@@ -1,10 +1,21 @@
-"use strict";//treat all js code as newer version
+console.log("noim")
+const accountid = 123456
+let accountEmail = "noim@google.com"
+var accountPassword = "12345"
+accountcity = "jaipur"
 
-//alert("hello")
-console.log(3+3)
+//accountid = 2
 
-let name = "hitesh"
-let age = 18
-let isloggedin = false
+accountEmail = "hc@hc.com"
+accountPassword = "212121"
+accountcity = "kolkata"
+accountstate;
+console.log(accountid);
 
-console.log(typeof null)
+/*
+
+*/
+
+
+console.log(accountEmail);
+console.table([accountid, accountEmail,accountPassword, accountcity, accountstate])
